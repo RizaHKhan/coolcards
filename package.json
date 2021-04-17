@@ -1,0 +1,23 @@
+{
+  "name": "coolcards",
+  "version": "1.0.0",
+  "description": "Animated Cards",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "jest",
+    "build": "tsc -p ."
+  },
+  "types": "dist",
+  "keywords": [
+    "cards",
+    "layout",
+    "flex"
+  ],
+  "author": "rkhan",
+  "license": "ISC",
+  "file": "dist",
+  "prepublish": "tsc",
+  "devDependencies": {
+    "typescript": "^4.2.4"
+  }
+}
