@@ -6,6 +6,7 @@
 
 <script lang="ts">
 import { defineComponent } from "vue";
+import Card from "coolcards";
 
 export default defineComponent({
   name: "HelloWorld",
