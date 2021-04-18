@@ -18,6 +18,8 @@
   "file": "dist",
   "prepublish": "tsc",
   "devDependencies": {
-    "typescript": "^4.2.4"
+    "ts-loader": "^8.1.0",
+    "typescript": "^4.2.4",
+    "vue": "^3.0.11"
   }
 }

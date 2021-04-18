@@ -1,2 +1,13 @@
-import Card from "./Card.vue";
-export default Card;
+import { defineComponent, h } from "vue";
+
+export default defineComponent({
+  props: {
+    title: {
+      type: String,
+      required: true,
+    },
+  },
+  render() {
+    return h("div", {}, this.title);
+  },
+});
