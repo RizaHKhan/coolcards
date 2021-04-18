@@ -1,3 +1,2 @@
-export function add(a: number, b: number) {
-  return a + b;
-}
+import Card from "./Card.vue";
+export default Card;
