@@ -1,6 +1,7 @@
 <template>
   <div class="hello">
     <h1>Cards Showcase</h1>
+    <Card title="Some badass title" />
   </div>
 </template>
 
@@ -10,6 +11,7 @@ import Card from "coolcards";
 
 export default defineComponent({
   name: "HelloWorld",
+  components: { Card },
   props: {
     msg: String,
   },
