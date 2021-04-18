@@ -9,7 +9,7 @@ exports.default = vue_1.defineComponent({
         },
     },
     render: function () {
-        return vue_1.h("h1", {}, this.title);
+        return vue_1.h("p", {}, this.title);
     },
 });
 //# sourceMappingURL=index.js.map

@@ -8,6 +8,6 @@ export default defineComponent({
     },
   },
   render() {
-    return h("h1", {}, this.title);
+    return h("p", {}, this.title);
   },
 });
