@@ -1,6 +1,6 @@
 {
   "name": "coolcards",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Animated Cards",
   "main": "dist/index.js",
   "scripts": {
