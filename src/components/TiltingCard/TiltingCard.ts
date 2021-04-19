@@ -1,5 +1,4 @@
-import "./TiltingCard.scss";
-
+// import "./TiltingCard.scss";
 import { defineComponent, h } from "vue";
 
 export default defineComponent({

@@ -22,4 +22,5 @@ Object.defineProperty(exports, "__esModule", { value: true });
 exports.CoolCards = void 0;
 var CoolCards = __importStar(require("./components"));
 exports.CoolCards = CoolCards;
+exports.default = CoolCards;
 //# sourceMappingURL=index.js.map

@@ -1,4 +1,3 @@
-import "./TiltingCard.scss";
 declare const _default: import("vue").DefineComponent<{
     title: {
         type: StringConstructor;

@@ -1,1 +1,1 @@
-import * from './TiltingCard'
+export * from "./TiltingCard";
